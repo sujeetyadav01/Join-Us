@@ -1,3 +1,4 @@
 name:{Vipul Sinha},email:{vipul1613.cse18@chitkara.edu.in}
 name:{Keshav Jain},email:{keshav1205.cse18@chitkara.edu.in}
 name:{Sujeet Yadav},email:{sujeet1168.cse18@chitkara.edu.in}
+name:{Mohit Chachra},email:{mohit1162.cse18@chitkara.edu.in}
